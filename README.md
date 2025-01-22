@@ -10,7 +10,7 @@ This project focuses on analyzing the "Marine Microplastics" dataset from Kaggle
 2. Identify patterns and correlations between microplastics and environmental factors such as water temperature, pollution levels, and geographical location.  
 3. Provide actionable insights to support efforts in improving water quality and protecting coastal ecosystems.  
 
-## 🛠️ Methodology  
+## 🛠️ Methodology  [in progress]
 1. **Data Cleaning and Preprocessing**:  
    - Handle missing values, inconsistent formats, and outliers.  
    - Ensure the data is ready for analysis and visualization.  
