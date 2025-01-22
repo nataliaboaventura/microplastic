@@ -44,7 +44,7 @@ This project focuses on analyzing the "Marine Microplastics" dataset from Kaggle
 - **Notebook**: A detailed Python analysis of the dataset, including data cleaning, visualization, and insights.  
 - **Dataset Source**: [Kaggle - Marine Microplastics](https://www.kaggle.com/datasets/william2020/marine-microplastics).  
 
-## 📝 Conclusion  
+## 📝 Conclusion  [in progress]
 This project provides valuable insights into the issue of marine microplastics, offering data-driven recommendations for addressing the challenges posed by plastic pollution. By raising awareness and informing policies, we can contribute to safeguarding marine ecosystems for future generations.  
 
 ## 💻 How to Run  
